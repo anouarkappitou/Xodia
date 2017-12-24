@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#392f5a</color>
+    <color name="colorPrimaryDark">#F092DD</color>
+    <color name="colorAccent">#A8C7BB</color>
+
+
+    <color name="deep_koamaru">#392F5A</color>
+    <color name="pale_magenta">#A8C7BB</color>
+    <color name="light_hot_pink">#A8C7BB</color>
+    <color name="green_pink">#EEC8E0</color>
+    <color name="ash_gray">#A8C7BB</color>
+    
+    
+</resources>
